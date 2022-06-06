@@ -33,3 +33,7 @@ function multiply(a, b) {
     *Faculty of Finance and Economics
     
 ---
+##__Language__
+*English A1
+*Russian
+*Belorussian
