@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Dima3355.github.io/rsschool-cv/cv
